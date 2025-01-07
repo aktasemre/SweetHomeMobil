@@ -1,0 +1,30 @@
+sweethome/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/sweethome/
+│   │   │   │   ├── activities/
+│   │   │   │   │   ├── MainActivity.kt
+│   │   │   │   │   ├── ProductDetailActivity.kt
+│   │   │   │   │   └── CartActivity.kt
+│   │   │   │   ├── fragments/
+│   │   │   │   │   ├── HomeFragment.kt
+│   │   │   │   │   ├── ProductsFragment.kt
+│   │   │   │   │   └── ProfileFragment.kt
+│   │   │   │   ├── models/
+│   │   │   │   │   ├── Product.kt
+│   │   │   │   │   └── User.kt
+│   │   │   │   ├── adapters/
+│   │   │   │   │   └── ProductAdapter.kt
+│   │   │   │   └── utils/
+│   │   │   │       └── Constants.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── values/
+│   │   │   │   └── drawable/
+│   │   │   └── AndroidManifest.xml
+│   │   └── test/
+│   └── build.gradle
+├── gradle/
+├── build.gradle
+└── settings.gradle 
