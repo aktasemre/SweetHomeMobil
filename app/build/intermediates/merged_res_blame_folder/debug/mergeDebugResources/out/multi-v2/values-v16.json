@@ -4,7 +4,7 @@
             "outputFile": "com.sweethome.app-mergeDebugResources-54:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\c064de5927073e4bcbfe620cef7059c9\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\56146aafdb78497331d31208d9fa9e24\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\de9ee4e86567bcf284fedd6de35d9264\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\8.9\\transforms\\e8625e18e64226eb2807b8ffe19f9990\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
