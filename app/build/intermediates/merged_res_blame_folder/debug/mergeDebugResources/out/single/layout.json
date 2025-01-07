@@ -1,26 +1,46 @@
 [
     {
-        "merged": "com.sweethome.app-mergeDebugResources-47:/layout/fragment_products.xml",
-        "source": "com.sweethome.app-main-50:/layout/fragment_products.xml"
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/fragment_products.xml",
+        "source": "com.sweethome.app-main-58:/layout/fragment_products.xml"
     },
     {
-        "merged": "com.sweethome.app-mergeDebugResources-47:/layout/fragment_home.xml",
-        "source": "com.sweethome.app-main-50:/layout/fragment_home.xml"
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/item_check_list.xml",
+        "source": "com.sweethome.app-main-58:/layout/item_check_list.xml"
     },
     {
-        "merged": "com.sweethome.app-mergeDebugResources-47:/layout/activity_main.xml",
-        "source": "com.sweethome.app-main-50:/layout/activity_main.xml"
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.sweethome.app-main-58:/layout/activity_main.xml"
     },
     {
-        "merged": "com.sweethome.app-mergeDebugResources-47:/layout/fragment_profile.xml",
-        "source": "com.sweethome.app-main-50:/layout/fragment_profile.xml"
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/fragment_check_item_detail.xml",
+        "source": "com.sweethome.app-main-58:/layout/fragment_check_item_detail.xml"
     },
     {
-        "merged": "com.sweethome.app-mergeDebugResources-47:/layout/item_product.xml",
-        "source": "com.sweethome.app-main-50:/layout/item_product.xml"
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/item_product.xml",
+        "source": "com.sweethome.app-main-58:/layout/item_product.xml"
     },
     {
-        "merged": "com.sweethome.app-mergeDebugResources-47:/layout/activity_product_detail.xml",
-        "source": "com.sweethome.app-main-50:/layout/activity_product_detail.xml"
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/fragment_add_check_item.xml",
+        "source": "com.sweethome.app-main-58:/layout/fragment_add_check_item.xml"
+    },
+    {
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.sweethome.app-main-58:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/fragment_check_list.xml",
+        "source": "com.sweethome.app-main-58:/layout/fragment_check_list.xml"
+    },
+    {
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/fragment_profile.xml",
+        "source": "com.sweethome.app-main-58:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/fragment_camera.xml",
+        "source": "com.sweethome.app-main-58:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "com.sweethome.app-mergeDebugResources-55:/layout/activity_product_detail.xml",
+        "source": "com.sweethome.app-main-58:/layout/activity_product_detail.xml"
     }
 ]

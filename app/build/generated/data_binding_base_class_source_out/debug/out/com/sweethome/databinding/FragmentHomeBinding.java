@@ -11,6 +11,7 @@ import androidx.core.widget.NestedScrollView;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.sweethome.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -21,15 +22,20 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final NestedScrollView rootView;
 
   @NonNull
-  public final RecyclerView featuredProductsRecyclerView;
+  public final FloatingActionButton addPhotoButton;
+
+  @NonNull
+  public final RecyclerView checkListRecyclerView;
 
   @NonNull
   public final TextView welcomeText;
 
   private FragmentHomeBinding(@NonNull NestedScrollView rootView,
-      @NonNull RecyclerView featuredProductsRecyclerView, @NonNull TextView welcomeText) {
+      @NonNull FloatingActionButton addPhotoButton, @NonNull RecyclerView checkListRecyclerView,
+      @NonNull TextView welcomeText) {
     this.rootView = rootView;
-    this.featuredProductsRecyclerView = featuredProductsRecyclerView;
+    this.addPhotoButton = addPhotoButton;
+    this.checkListRecyclerView = checkListRecyclerView;
     this.welcomeText = welcomeText;
   }
 
@@ -60,9 +66,15 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.featuredProductsRecyclerView;
-      RecyclerView featuredProductsRecyclerView = ViewBindings.findChildViewById(rootView, id);
-      if (featuredProductsRecyclerView == null) {
+      id = R.id.addPhotoButton;
+      FloatingActionButton addPhotoButton = ViewBindings.findChildViewById(rootView, id);
+      if (addPhotoButton == null) {
+        break missingId;
+      }
+
+      id = R.id.checkListRecyclerView;
+      RecyclerView checkListRecyclerView = ViewBindings.findChildViewById(rootView, id);
+      if (checkListRecyclerView == null) {
         break missingId;
       }
 
@@ -72,8 +84,8 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((NestedScrollView) rootView, featuredProductsRecyclerView,
-          welcomeText);
+      return new FragmentHomeBinding((NestedScrollView) rootView, addPhotoButton,
+          checkListRecyclerView, welcomeText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
