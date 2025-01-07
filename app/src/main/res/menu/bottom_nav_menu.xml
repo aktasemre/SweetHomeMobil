@@ -6,9 +6,9 @@
         android:title="Ana Sayfa" />
 
     <item
-        android:id="@+id/navigation_products"
-        android:icon="@drawable/ic_products"
-        android:title="Ürünler" />
+        android:id="@+id/navigation_checklist"
+        android:icon="@drawable/ic_checklist"
+        android:title="Kontrol Listesi" />
 
     <item
         android:id="@+id/navigation_profile"

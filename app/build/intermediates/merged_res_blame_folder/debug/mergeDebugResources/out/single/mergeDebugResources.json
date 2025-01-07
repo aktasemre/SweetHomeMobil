@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\layout_fragment_products.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\layout-sw600dp_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\layout-sw600dp\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.sweethome.app-pngs-44:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sweethome.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sweethome.app-debug-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sweethome.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-debug-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.9\\com.sweethome.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]

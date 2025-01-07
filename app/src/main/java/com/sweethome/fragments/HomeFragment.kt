@@ -27,7 +27,11 @@ class HomeFragment : Fragment() {
     }
 
     private fun setupUI() {
-        // Ana sayfa UI elemanlarını ayarla
+        binding.welcomeText.text = "Ev Kontrol Listesi"
+        // Fotoğraf çekme butonu ekleyelim
+        binding.addPhotoButton.setOnClickListener {
+            // Kamera açılacak
+        }
     }
 
     override fun onDestroyView() {

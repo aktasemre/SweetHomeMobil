@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sweet Home</string>
+    
+    <!-- Hata mesajları -->
+    <string name="error_loading_items">Öğeler yüklenirken hata oluştu: %1$s</string>
+    <string name="error_deleting_item">Silme işlemi başarısız: %1$s</string>
+    <string name="retry">Tekrar Dene</string>
+    <string name="error_camera_init">Kamera başlatılamadı</string>
+    <string name="error_file_create">Dosya oluşturulamadı: %1$s</string>
+    <string name="error_photo_capture">Fotoğraf çekilemedi: %1$s</string>
+    <string name="error_unexpected">Beklenmeyen bir hata oluştu: %1$s</string>
+    
+    <!-- Başarı mesajları -->
+    <string name="success_item_deleted">Kontrol öğesi silindi</string>
+    
+    <!-- Dialog mesajları -->
+    <string name="delete_confirmation_title">Silmek istediğinize emin misiniz?</string>
+    <string name="delete_confirmation_message">Bu işlem geri alınamaz.</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">İptal</string>
+    
+    <!-- Boş durum mesajları -->
+    <string name="empty_checklist">Henüz kontrol öğesi eklenmemiş</string>
+</resources> 
