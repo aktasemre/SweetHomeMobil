@@ -27,4 +27,5 @@
             app:layout_constraintTop_toBottomOf="@id/welcomeText" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-</androidx.androidx.core.widget.NestedScrollView> 
+
+</androidx.core.widget.NestedScrollView> 
