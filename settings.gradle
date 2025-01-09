@@ -2,11 +2,12 @@ pluginManagement {
     repositories {
         google()
         mavenCentral()
-        gradlePluginPortal()
+        gradlePluginPortal() // Gradle eklentileri için
     }
 }
+
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS) // Proje bağımlılıklarını ayarlar dosyasından tercih et
     repositories {
         google()
         mavenCentral()

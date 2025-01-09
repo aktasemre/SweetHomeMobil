@@ -33,6 +33,7 @@ class CameraFragment : Fragment() {
             startCamera()
         }
     }
+    
 
     override fun onCreateView(
         inflater: LayoutInflater,
